@@ -1,0 +1,61 @@
+.nav-logo {
+	max-height: 25px;
+}
+
+.navbar {
+	margin: 0 auto;
+}
+
+.jumbotron {
+	background-color: black;
+	margin: 0 auto;
+	background: url("../images/bg2.jpg");
+	margin-bottom: 10px;
+}
+
+.header h1 {
+	text-align: center;
+	color:white;
+}
+
+.header p {
+	text-align: center;
+	color:white;
+}
+
+.button-header {
+
+	background-color: white;
+	color:black;
+	border-style: none;
+}
+
+.thumbnail{
+	border-color: lightgrey;
+	border-radius: 20px;
+	border-style: solid;
+    border-width: 10px;
+}
+
+.caption {
+	text-align: center;
+}
+
+.button-thumb {
+	background-color: white;
+	color:black;
+	border-color: lightgrey;
+}
+
+.footer {
+	background-color: lightgrey;
+	height: 100px;
+	text-align: center;
+}
+
+.logo-footer {
+	max-height: 25px;
+	clear: both;
+	margin-top: 20px;
+}
+
